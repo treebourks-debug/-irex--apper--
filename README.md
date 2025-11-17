@@ -2,6 +2,25 @@
 
 Проектът TIREX SAPPER представлява пълен, прозрачен MQL5 експерт, който възпроизвежда ключовите принципи на Exorcist – трендово разпознаване, входове при корекции, мрежова логика без опасен мартингейл, динамични стопове и адаптивно управление на риска.
 
+---
+
+## 📚 Documentation Navigation
+
+| Document | Description |
+|----------|-------------|
+| **[README.md](README.md)** (this file) | Complete overview, features, and technical details |
+| **[QUICKSTART.md](QUICKSTART.md)** | Get started in 5 minutes - for beginners |
+| **[ARCHITECTURE.md](ARCHITECTURE.md)** | Technical architecture and system design |
+| **[FAQ.md](FAQ.md)** | 40+ frequently asked questions and answers |
+| **[CONFIGURATION_EXAMPLES.md](CONFIGURATION_EXAMPLES.md)** | Settings for different markets and strategies |
+| **[CHANGELOG.md](CHANGELOG.md)** | Version history and planned features |
+| **[CONTRIBUTING.md](CONTRIBUTING.md)** | How to contribute to the project |
+| **[LICENSE](LICENSE)** | MIT License and trading disclaimer |
+
+**🚀 New User?** Start with [QUICKSTART.md](QUICKSTART.md) for a 5-minute setup guide!
+
+---
+
 ## 🎯 Основни характеристики
 
 ### ✅ Трендово разпознаване
